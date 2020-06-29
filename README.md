@@ -1,0 +1,2 @@
+### API KEY SENDGRID
+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
